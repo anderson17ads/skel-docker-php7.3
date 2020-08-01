@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker exec project-nestle-star-e-magento-webserver $@
+docker exec skel-docker-php7.3-webserver $@
