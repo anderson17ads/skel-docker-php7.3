@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker exec project-nestle-star-e-magento-webserver $@
